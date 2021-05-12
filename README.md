@@ -32,4 +32,6 @@ Dataset contains network traffic of 22 IoT devices collected for 20 days.
 
 **Please Cite as:**
 <br/>
-B. Charyyev, M.H. Gunes ”IoT Traffic Flow Identification using Locality Sensitive Hashes”, 2020 ICC, June 2020 Dublin, Ireland
+B. Charyyev and M. H. Gunes, "IoT Traffic Flow Identification using Locality Sensitive Hashes," ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020, pp. 1-6, doi: 10.1109/ICC40277.2020.9148743.
+<br/>
+B. Charyyev and M. H. Gunes, "Locality-Sensitive IoT Network Traffic Fingerprinting for Device Identification," in IEEE Internet of Things Journal, vol. 8, no. 3, pp. 1272-1281, 1 Feb.1, 2021, doi: 10.1109/JIOT.2020.3035087.
